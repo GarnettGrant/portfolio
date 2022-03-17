@@ -18,6 +18,14 @@ nav{
     margin-right: auto;
     box-shadow: black 0.7px 0.7px 0.7px 0.7px;
 }
+img{
+    border: 5px solid black;
+    padding: 0 !important;
+    margin: 10px;
+}
+#setasLogo{
+    border-radius: 50%;
+}
 nav a {
     text-decoration: none;
     color: white;
